@@ -1,16 +1,21 @@
-### Hi there 👋
+# Olá, eu sou Gustavo Caseri! 👋
 
-<!--
-**GustavoCaseri/GustavoCaseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+- 👨‍💻 Estudante de programação.
+- 💼 Trabalho atualmente como Suporte de TI.
 
-Here are some ideas to get you started:
+## Habilidades
+- 💻 Linguagens de programação: Java, Python e PHP.
+- 🌐 Web Development: HTML, CSS e JavaScript.
+- 🛠️ Ferramentas e Tecnologias: Visual Studio Code, Eclipse, GitHub, MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+- LinkedIn: https://www.linkedin.com/in/gustavo-caseri
+- Email: gustavo.caseri.gt@gmail.com
+
+## Interesses
+- Aprendendo novas tecnologias.
+- Inteligência Artificial e Machine Learning.
+
+Sinta-se à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes. 😄
+
